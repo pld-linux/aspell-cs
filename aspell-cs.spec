@@ -1,14 +1,14 @@
 Summary:	Czech dictionary for aspell
 Summary(pl):	Czeski s³ownik dla aspella
 Name:		aspell-cs
-Version:	0.50
-%define	subv	2
-Release:	2
+Version:	0.51
+%define	subv	0
+Release:	1
 Epoch:		1
 License:	GPL (?)
 Group:		Applications/Text
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/cs/%{name}-%{version}-%{subv}.tar.bz2
-# Source0-md5:	ac4ea210149e6b312b63a862c27df5b4
+# Source0-md5:	4be28bef4385ef46e80547ce8cdc4535
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 0.50.0
 Requires:	aspell >= 0.50.0
