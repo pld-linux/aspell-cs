@@ -1,5 +1,5 @@
 Summary:	Czech dictionary for aspell
-Summary(pl):	Czeski s這wnik dla aspella
+Summary(pl):	S這wnik czeski dla aspella
 Name:		aspell-cs
 Version:	0.51
 %define	subv	0
@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Czech dictionary (i.e. word list) for aspell.
 
 %description -l pl
-Czeski s這wnik (lista s堯w) dla aspella.
+S這wnik (lista s堯w) czeski dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
