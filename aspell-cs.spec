@@ -3,7 +3,7 @@ Summary(pl):	S³ownik czeski dla aspella
 Name:		aspell-cs
 Version:	0.51
 %define	subv	0
-Release:	1
+Release:	2
 Epoch:		1
 License:	GPL (?)
 Group:		Applications/Text
