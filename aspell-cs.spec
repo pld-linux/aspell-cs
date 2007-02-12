@@ -1,6 +1,6 @@
 Summary:	Czech dictionary for aspell
-Summary(cs.UTF-8):   Česká data pro aspell
-Summary(pl.UTF-8):   Czeski słownik dla aspella
+Summary(cs.UTF-8):	Česká data pro aspell
+Summary(pl.UTF-8):	Czeski słownik dla aspella
 Name:		aspell-cs
 Version:	20040614
 %define	subv	1
