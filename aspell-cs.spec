@@ -1,6 +1,6 @@
 Summary:	Czech dictionary for aspell
-Summary(cs):	»esk· data pro aspell
-Summary(pl):	Czeski s≥ownik dla aspella
+Summary(cs.UTF-8):   ƒåesk√° data pro aspell
+Summary(pl.UTF-8):   Czeski s≈Çownik dla aspella
 Name:		aspell-cs
 Version:	20040614
 %define	subv	1
@@ -18,11 +18,11 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Czech dictionary (i.e. word list) for aspell.
 
-%description -l cs
-»esk· data pro aspell.
+%description -l cs.UTF-8
+ƒåesk√° data pro aspell.
 
-%description -l pl
-Czeski s≥ownik (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+Czeski s≈Çownik (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-cs-%{version}-%{subv}
