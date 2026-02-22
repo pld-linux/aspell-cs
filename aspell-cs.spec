@@ -4,7 +4,7 @@ Summary(pl.UTF-8):	Czeski słownik dla aspella
 Name:		aspell-cs
 Version:	20040614
 %define	subv	1
-Release:	2
+Release:	3
 Epoch:		1
 License:	GPL v2
 Group:		Applications/Text
